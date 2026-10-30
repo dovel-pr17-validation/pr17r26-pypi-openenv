@@ -1,0 +1,7 @@
+spec_version: 1
+name: wildfire_env
+type: space
+runtime: fastapi
+app: wildfire_env.server.app:app
+port: 8000
+
